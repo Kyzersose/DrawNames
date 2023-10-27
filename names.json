@@ -1,50 +1,62 @@
 [
     {
-      "first_name": "Matt",
-      "last_name": "Shaeffer"
-    },
-    {
-      "first_name": "Sarah",
-      "last_name": "Shaeffer"
-    },
-    {
-      "first_name": "Presley",
-      "last_name": "Shaeffer"
-    },
-    {
-      "first_name": "Nolan",
-      "last_name": "Shaeffer"
-    },
-    {
-      "first_name": "Cal",
-      "last_name": "Shaeffer"
-    },
-    {
-        "first_name":"Ben"
-        "last_name":"Shaeffer"
-    },
-    {
         "first_name": "Matt",
         "last_name": "Shaeffer"
-      },
-      {
+    },
+    {
         "first_name": "Sarah",
         "last_name": "Shaeffer"
-      },
-      {
+    },
+    {
         "first_name": "Presley",
         "last_name": "Shaeffer"
-      },
-      {
+    },
+    {
         "first_name": "Nolan",
         "last_name": "Shaeffer"
-      },
-      {
+    },
+    {
         "first_name": "Cal",
         "last_name": "Shaeffer"
-      },
-      {
-          "first_name":"Ben"
-          "last_name":"Shaeffer"
-      },
-  ]
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Shaeffer"
+    },
+    {
+        "first_name": "Mitchell",
+        "last_name": "Vaughan"
+    },
+    {
+        "first_name": "Amanda",
+        "last_name": "Vaughan"
+    },
+    {
+        "first_name": "Sadie",
+        "last_name": "Vaughan"
+    },
+    {
+        "first_name": "Rachel",
+        "last_name": "Vaughan"
+    },
+    {
+        "first_name": "Josh",
+        "last_name": "Lord"
+    },
+    {
+        "first_name": "Holly",
+        "last_name": "Lord"
+    },
+    {
+        "first_name":"Levi",
+        "last_name":"Lord"
+    },
+    {
+        "first_name":"Noah",
+        "last_name":"Lord"
+    },
+    {
+        "first_name":"Isaac",
+        "last_name":"Lord"
+    }
+]
