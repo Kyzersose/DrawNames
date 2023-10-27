@@ -1,4 +1,3 @@
-import json
 import random
 
 def draw_name(names):
@@ -10,13 +9,17 @@ def draw_name(names):
   Returns:
     A string containing the name that was drawn.
   """
+shaeffers = ["Matt", "Sarah", "Presley", "Nolan", "Cal", "Ben"]
+lords = ['Josh','Holly','Levi','Noah','Isaac']
+vaughans = ['Mitchel','Amanda','Sadie','Rachel']
+powells = ['Steve','Anita']
 
-  drawn_names = set()
-  while True:
+drawn_names = set()
+while True:
     name = random.choice(names)
     if name not in drawn_names:
       drawn_names.add(name)
-      return name
+    return name
 
 def main():
   with open("names.json", "r") as f:
