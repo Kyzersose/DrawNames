@@ -26,6 +26,7 @@ def main():
   drawn_names = []
   for person in names:
     name = draw_name(names)
+    #Need another loop to make sure that name and person are not in the same list?
     drawn_names.append(name)
     print(f"{person}: {name}")
 
